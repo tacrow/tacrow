@@ -218,19 +218,10 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222222;
 }
-.bg-danger .text-muted {
-    color: #fff;
-}
-
-.bg-danger a {
-    color: #fff;
-}
-
-.skill-container {
-    background-color: #008b8b;
-}
-
-.skill-title {
+.bg-danger .text-muted,
+.bg-danger a,
+.skill-title,
+.devicons {
     color: #ffffff;
 }
 
@@ -245,6 +236,12 @@ body {
     color: #ffffff;
 }
 
-.devicons {
-    color: #ffffff;
+.skill-container,
+.tag-blog-color {
+  background-color: #008b8b;
+}
+
+.tag-blog-color {
+    padding: .25em 1em .18em;
+    border-radius: 3px;
 }

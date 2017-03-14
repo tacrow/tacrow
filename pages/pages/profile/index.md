@@ -1,13 +1,10 @@
 ---
 id: 1380
 title: "Profile"
-date: 2016-05-15T17:48:12+00:00
-author: jaxx2104
+date: 2017-03-13T00:00:00.00Z
+author: takuroyamauchi
 layout: page
 path: "/profile"
-
-guid: http://jaxx2104.info/?page_id=1380
-image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
 ---
 
 

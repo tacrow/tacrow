@@ -37,7 +37,7 @@ class SiteIndex extends React.Component {
                 for (const i in categories) {
                     const c = categories[i]
                     category.push(
-                         <span className="tag tag-danger" key={i}>{ c }</span>
+                         <span className="tag tag-blog-color" key={i}>{ c }</span>
                     )
                 }
 

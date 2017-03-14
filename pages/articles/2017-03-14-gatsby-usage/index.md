@@ -1,16 +1,16 @@
 ---
-title: React.js製 静的サイトジェネレーターGatsbyを利用してブログを構築してみる
+title: React.js製 静的サイトジェネレーターGatsbyを利用してサイトを構築してみる
 date: "2017-03-14T00:00:00.00Z"
 layout: post
 path: "/gatsby-usage/"
-category: "Front-end, JavaScript, Gatsby, React.js"
+categories: ["Frontend", "JavaScript", "Gatsby", "React.js"]
 description: "このサイトは、GatsbyというReact.js製の静的サイトジェネレーターで作っています。 ここでは、このサイトを構築するまでの手順を書いていきます。"
 ---
 
 ## Gatsbyとは
 [Gatsby](https://github.com/gatsbyjs/gatsby)は、[React.js](https://facebook.github.io/react/)で作られた静的サイトジェネレーターです。  
 記事は、マークダウン形式で記述します。  
-React.js製ということもあり面白そうだと思って選択しました。
+jekyll, Hugo, Hexoとか有名どころも調べましたが、React.js製ということもあり面白そうだと思ってこちらを選択しました。
 
 他の記事でも書いてる方がいらっしゃいましたが、  
 どうしても某デオドラントスプレーを思いうかかべてしまいます。
