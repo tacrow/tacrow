@@ -111,8 +111,8 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
     <div class="service-box">
     <p>1987. Born in Aomori City, Aomori Pref, Japan.</p>
     <p>2010. Future University Hakodate, Graduate School, Media Design. [Hakodate City, Hokkaido Pref]</p>
-    <p>2012. CyberAgent,Inc. [Tokyo]</p>
-    <p>2015. CyberSS,Inc. [Tokyo]</p>
+    <p>2012. CyberAgent, Inc. [Tokyo]</p>
+    <p>2015. CyberSS, Inc. [Tokyo]</p>
     </div>
   </div>
 </section>

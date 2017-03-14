@@ -10,8 +10,10 @@ description: "このサイトは、GatsbyというReact.js製の静的サイト�
 ## Gatsbyとは
 [Gatsby](https://github.com/gatsbyjs/gatsby)は、[React.js](https://facebook.github.io/react/)で作られた静的サイトジェネレーターです。  
 記事は、マークダウン形式で記述します。  
-React.js製ということもあり面白そうだと思って選択しました。  
-名前だけだと、某デオドラントスプレーを思いうかべちゃいますね。
+React.js製ということもあり面白そうだと思って選択しました。
+
+他の記事でも書いてる方がいらっしゃいましたが、  
+どうしても某デオドラントスプレーを思いうかかべてしまいます。
 
 ## 導入方法
 Node.jsとnpmが既に入っていることが前提です。
@@ -62,13 +64,13 @@ CSSは少しカスタマイズしています。
 
 
 ## Github Pagesに公開する
-Githubリポジトリを作り、gh-pagesブランチを設定します。  
+Githubリポジトリを作り、***gh-pages***ブランチを設定します。  
 ***condig.toml***の***linkPrefix***にプロジェクト名を登録して以下を実行します。  
 ``
 $ npm run deploy
 ``
 
-実行すると、package.jsonの以下が実行されて、gh-pagesブランチでサイトが構築&更新されます。
+実行すると、***package.json***の以下が実行されてgh-pagesブランチでサイトが構築&更新されます。  
 ``
 $ gatsby build --prefix-links && gh-pages -d public
 ``
