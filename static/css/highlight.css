@@ -15,9 +15,10 @@ p > code, span > code {
 	font-family: Inconsolata, monospace, serif;
 	max-width: 100%;
 	overflow: auto;
-	padding: 0.25em 0.5em;
-	color: #333333;
+	padding: .5em 1em;
 	background-color: #f7f7f7;
+	color: #333333;
+	line-height: 2.5;
 }
 pre code {
 	display: block;

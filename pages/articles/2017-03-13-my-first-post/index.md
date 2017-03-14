@@ -2,7 +2,7 @@
 title: はじめに
 date: "2017-03-13T00:00:00.00Z"
 layout: post
-path: "/my-first-post/"
+path: "/first-post/"
 categories: ["Diary"]
 description: "ブログをまたはじめることにしました。"
 ---

@@ -2,16 +2,15 @@
 id: 0000
 title: "Profile"
 date: 2017-03-13T00:00:00.00Z
-author: takuroyamauchi
+author: takuro yamauchi
 layout: page
 path: "/profile"
 ---
 
-
 <section class="text-xs-center">
   <div class="container">
     <img src="yamataku.jpg" alt="yamataku" class="rounded-circle mx-auto d-block" width="120px">
-    <h1>tacrow</h1>
+    <h1>takuro yamauchi</h1>
     <p class="lead text-muted">フロントエンド、ロック、酒、渋谷、世田谷、青森、津軽</p>
     <div class="service-box">
       <a href="https://github.com/tacrow"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
