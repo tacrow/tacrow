@@ -218,6 +218,14 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222222;
 }
+
+.kv {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.kv:hover {
+    animation: none;
+}
 .bg-danger .text-muted,
 .bg-danger a,
 .skill-title,
