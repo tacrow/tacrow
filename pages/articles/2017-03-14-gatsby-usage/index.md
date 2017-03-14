@@ -9,11 +9,12 @@ description: "このサイトは、GatsbyというReact.js製の静的サイト�
 
 ## Gatsbyとは
 [Gatsby](https://github.com/gatsbyjs/gatsby)は、[React.js](https://facebook.github.io/react/)で作られた静的サイトジェネレーターです。  
-記事の記述はMD形式で記述します。  
+記事は、マークダウン形式で記述します。  
 React.js製ということもあり面白そうだと思って選択しました。  
 名前だけだと、某デオドラントスプレーを思いうかべちゃいますね。
 
 ## 導入方法
+Node.jsとnpmが既に入っていることが前提です。
 
 インストール  
 ``
