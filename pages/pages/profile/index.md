@@ -15,7 +15,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <img src="yamataku.jpg" alt="yamataku" class="rounded-circle mx-auto d-block" width="120px">
     <h1>tacrow</h1>
-    <p class="lead text-muted">フロントエンド、ロック、酒、渋谷、世田谷、青森</p>
+    <p class="lead text-muted">フロントエンド、ロック、酒、渋谷、世田谷、青森、津軽</p>
     <div class="service-box">
       <a href="https://github.com/tacrow"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
       <a href="https://twitter.com/bluezz69"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
@@ -28,7 +28,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12 ">
-        <h2 class="section-heading skill-title">SKIL </h2>
+        <h2 class="section-heading skill-title">SKILL </h2>
         <hr class="primary" />
       </div>
     </div>
@@ -102,14 +102,17 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2 class="section-heading">Features </h2>
-        <hr class="primary" />
+        <h2 class="section-heading">Biography</h2>
+        <hr class="primary"/>
       </div>
     </div>
   </div>
   <div class="container">
     <div class="service-box">
-    <p>sampletext</p>
+    <p>1987. Born in Aomori City, Aomori Pref, Japan.</p>
+    <p>2010. Future University Hakodate, Graduate School [Hakodate City, Hokkaido Pref]</p>
+    <p>2012. CyberAgent,Inc. [Tokyo]</p>
+    <p>2015. CyberSS,Inc. [Tokyo]</p>
     </div>
   </div>
 </section>
@@ -118,7 +121,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2 class="section-heading">WORKS </h2>
+        <h2 class="section-heading">WORKS</h2>
         <hr class="light" />
       </div>
     </div>

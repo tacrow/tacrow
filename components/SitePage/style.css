@@ -8,6 +8,7 @@ html,
 body {
     height: 100%;
     width: 100%;
+    line-height: 1.5;
 }
 
 hr {
@@ -28,6 +29,7 @@ a {
 a:hover,
 a:focus {
     color: #008b8b;
+    text-decoration: none;
 }
 p {
     font-size: 16px;

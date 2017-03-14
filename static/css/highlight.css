@@ -16,6 +16,8 @@ p > code, span > code {
 	max-width: 100%;
 	overflow: auto;
 	padding: 0.25em 0.5em;
+	color: #333333;
+	background-color: #f7f7f7;
 }
 pre code {
 	display: block;
