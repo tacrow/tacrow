@@ -231,7 +231,8 @@ body {
     transition: all .3s;
 }
 
-.btn-style:hover {
+.btn-style:hover,
+.btn-style:active {
     background-color: #008b8b;
     color: #ffffff;
 }

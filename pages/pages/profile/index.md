@@ -11,7 +11,7 @@ path: "/profile"
   <div class="container">
     <img src="yamataku.jpg" alt="yamataku" class="rounded-circle mx-auto d-block" width="120px">
     <h1>takuro yamauchi</h1>
-    <p class="lead text-muted">フロントエンド、ロック、酒、渋谷、世田谷、青森、津軽</p>
+    <p class="lead text-muted">フロントエンド、ロック、酒、渋谷、世田谷、青森</p>
     <div class="service-box">
       <a href="https://github.com/tacrow"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
       <a href="https://twitter.com/bluezz69"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
@@ -64,17 +64,22 @@ path: "/profile"
         </div>
       </div>
       <div class="col-lg-3 col-xs-6">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="jquery">
+          <i class="fa-4x devicons devicons-jquery wow bounceIn" data-wow-duration="2.0s"></i>
+        </div>
+      </div>
+      <div class="col-lg-3 col-xs-6">
         <div class="service-box" data-toggle="tooltip" data-placement="top" title="Gulp">
           <i class="fa-4x devicons devicons-gulp wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-lg-3 col-xs-6">
         <div class="service-box" data-toggle="tooltip" data-placement="top" title="nodejs">
           <i class="fa-4x devicons devicons-nodejs wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
-    </div>
-    <div class="row">
       <div class="col-lg-3 col-xs-6">
         <div class="service-box" data-toggle="tooltip" data-placement="top" title="Sublime">
           <i class="fa-4x devicons devicons-sublime wow bounceIn" data-wow-duration="2.0s"></i>
@@ -88,6 +93,13 @@ path: "/profile"
       <div class="col-lg-3 col-xs-6">
         <div class="service-box" data-toggle="tooltip" data-placement="top" title="Git">
           <i class="fa-4x devicons devicons-git wow bounceIn" data-wow-duration="2.0s"></i>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-xs-6">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="unity">
+          <i class="fa-4x devicons devicons-unity_small wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
     </div>
