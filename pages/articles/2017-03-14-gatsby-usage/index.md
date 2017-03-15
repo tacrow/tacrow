@@ -8,6 +8,10 @@ description: "このサイトは、GatsbyというReact.js製の静的サイト�
 ---
 <img src="./kv.png" class="kv" alt="react.js">
 
+<div class="kv-box">
+	<img src="./kv.png" alt="React.js">
+</div>
+
 ## Gatsbyとは
 [Gatsby](https://github.com/gatsbyjs/gatsby)は、[React.js](https://facebook.github.io/react/)で作られた静的サイトジェネレーターです。
 記事は、マークダウン形式で記述します。

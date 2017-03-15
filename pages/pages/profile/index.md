@@ -54,6 +54,11 @@ path: "/profile"
     </div>
     <div class="row">
       <div class="col-lg-3 col-xs-6">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="jquery">
+          <i class="fa-4x devicons devicons-jquery wow bounceIn" data-wow-duration="2.0s"></i>
+        </div>
+      </div>
+      <div class="col-lg-3 col-xs-6">
         <div class="service-box" data-toggle="tooltip" data-placement="top" title="React">
           <i class="fa-4x devicons devicons-react wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
@@ -64,20 +69,15 @@ path: "/profile"
         </div>
       </div>
       <div class="col-lg-3 col-xs-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="jquery">
-          <i class="fa-4x devicons devicons-jquery wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-      <div class="col-lg-3 col-xs-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Gulp">
-          <i class="fa-4x devicons devicons-gulp wow bounceIn" data-wow-duration="2.0s"></i>
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="nodejs">
+          <i class="fa-4x devicons devicons-nodejs wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-3 col-xs-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="nodejs">
-          <i class="fa-4x devicons devicons-nodejs wow bounceIn" data-wow-duration="2.0s"></i>
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Gulp">
+          <i class="fa-4x devicons devicons-gulp wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
       <div class="col-lg-3 col-xs-6">
@@ -86,20 +86,8 @@ path: "/profile"
         </div>
       </div>
       <div class="col-lg-3 col-xs-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Atom">
-          <i class="fa-4x devicons devicons-atom wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-      <div class="col-lg-3 col-xs-6">
         <div class="service-box" data-toggle="tooltip" data-placement="top" title="Git">
           <i class="fa-4x devicons devicons-git wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-3 col-xs-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="unity">
-          <i class="fa-4x devicons devicons-unity_small wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
     </div>

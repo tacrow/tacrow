@@ -255,3 +255,12 @@ body {
     border-radius: 3px;
     font-weight: normal;
 }
+
+.kv-box {
+    margin-bottom: 30px;
+}
+
+.kv-box img:hover {
+    margin-bottom: 0;
+    animation: none;
+}
