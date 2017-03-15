@@ -106,45 +106,10 @@ path: "/profile"
   <div class="container">
     <div class="service-box">
     <p>1987. Born in Aomori City, Aomori Pref, Japan.</p>
+    <p>2006. Future University Hakodate, Information Design. [Hakodate City, Hokkaido Pref]</p>
     <p>2010. Future University Hakodate, Graduate School, Media Design. [Hakodate City, Hokkaido Pref]</p>
     <p>2012. CyberAgent, Inc. [Tokyo]</p>
     <p>2015. CyberSS, Inc. [Tokyo]</p>
     </div>
   </div>
 </section>
-
-<!-- <section class="bg-danger text-xs-center" id="concept">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h2 class="section-heading">WORKS</h2>
-        <hr class="light" />
-      </div>
-    </div>
-  </div>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 wow slideInLeft" data-wow-duration="1.0s">
-        <p>image1</p>
-      </div>
-      <div class="col-md-6 wow slideInRight" data-wow-duration="1.0s">
-        <p>image2</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="repos">
-  <div class="container">
-    <div class="row">
-        <div class="col-md-6 ">
-            <h2 class="section-heading">Repositories</h2>
-        </div>
-        <div class="col-md-6 text-xs-left">
-            <li><a href="">sample</a></li>
-            <li><a href="">sample</a></li>
-            <li><a href="">sample</a></li>
-        </div>
-    </div>
-  </div>
-</section> -->

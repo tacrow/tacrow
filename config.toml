@@ -2,4 +2,6 @@ siteTitle = "tacrow"
 siteDescr = "Web, Frontend, HTML, CSS, JavaScript"
 siteAuthor = "takuro yamauchi"
 
+twitterId = ""
+googleAnalyticsId = ""
 linkPrefix = "/tacrow"
