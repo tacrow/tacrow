@@ -260,7 +260,10 @@ body {
     margin-bottom: 30px;
 }
 
-.kv-box img:hover {
+.kv-box img {
     margin-bottom: 0;
+}
+
+.kv-box img:hover {
     animation: none;
 }

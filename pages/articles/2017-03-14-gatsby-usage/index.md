@@ -6,8 +6,6 @@ path: "/gatsby-usage/"
 categories: ["Frontend", "JavaScript", "Gatsby", "React.js"]
 description: "このサイトは、GatsbyというReact.js製の静的サイトジェネレーターで作っています。 ここでは、このサイトを構築するまでの手順を書いていきます。"
 ---
-<img src="./kv.png" class="kv" alt="react.js">
-
 <div class="kv-box">
 	<img src="./kv.png" alt="React.js">
 </div>
