@@ -106,7 +106,7 @@ path: "/profile"
   <div class="container">
     <div class="service-box">
     <p>1987. Born in Aomori City, Aomori Pref, Japan.</p>
-    <p>2006. Future University Hakodate, Information Design. [Hakodate City, Hokkaido Pref]</p>
+    <p>2006. Future University Hakodate, Information Design Course. [Hakodate City, Hokkaido Pref]</p>
     <p>2010. Future University Hakodate, Graduate School, Media Design. [Hakodate City, Hokkaido Pref]</p>
     <p>2012. CyberAgent, Inc. [Tokyo]</p>
     <p>2015. CyberSS, Inc. [Tokyo]</p>

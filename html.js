@@ -24,6 +24,9 @@ module.exports = React.createClass({
                 <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=5.0" />
                 <title>{ title }</title>
+                <meta property="og:type" content="website" />
+                <meta property="og:image" content="https://tacrow.github.io/tacrow/img_og.png" />
+                <meta property="og:site_name" content="tacrow" />
                 <link rel="shortcut icon" href="../favicon.ico" />
                 { /*font*/ }
                 { css }

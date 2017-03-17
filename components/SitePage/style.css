@@ -69,6 +69,10 @@ aside {
 section {
 }
 
+h2 {
+    margin-top: 1.5rem;
+}
+
 .jumboimage {
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -266,4 +270,20 @@ body {
 
 .kv-box img:hover {
     animation: none;
+}
+
+pre code {
+  padding: 5px 10px;
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.hljs-keyword,
+.hljs-attribute,
+.hljs-comment,
+.hljs-symbol {
+  color: #ffffff;
+}
+.hljs-string {
+  color: #ffa500;
 }
