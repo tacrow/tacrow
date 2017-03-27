@@ -278,10 +278,14 @@ pre code {
   color: #ffffff;
 }
 
+.hljs-tag,
+.hljs-selector-tag,
+.hljs-title,
 .hljs-keyword,
 .hljs-attribute,
 .hljs-comment,
-.hljs-symbol {
+.hljs-symbol,
+.hljs-name {
   color: #ffffff;
 }
 .hljs-string {
