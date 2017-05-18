@@ -25,6 +25,7 @@ a {
     -moz-transition: all 0.35s;
     transition: all 0.35s;
     color: #008b8b;
+    font-weight: bold;
 }
 a:hover,
 a:focus {
@@ -264,6 +265,10 @@ body {
     margin-bottom: 30px;
 }
 
+.kv-box.border {
+    border: 1px solid #eeeeee;
+}
+
 .kv-box img {
     margin-bottom: 0;
 }
@@ -273,21 +278,12 @@ body {
 }
 
 pre code {
-  padding: 5px 10px;
-  background-color: #333333;
-  color: #ffffff;
+  padding: 10px 15px;
+  background-color: #eeeeee;
+  border: 1px solid #dddddd;
+  // color: #ffffff;
 }
 
-.hljs-tag,
-.hljs-selector-tag,
-.hljs-title,
-.hljs-keyword,
-.hljs-attribute,
-.hljs-comment,
-.hljs-symbol,
-.hljs-name {
-  color: #ffffff;
-}
 .hljs-string {
   color: #ffa500;
 }
