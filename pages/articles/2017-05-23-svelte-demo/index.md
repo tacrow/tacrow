@@ -4,18 +4,18 @@ date: "2017-05-18T00:00:00.00Z"
 layout: post
 path: "/svelte-demo/"
 categories: ["Frontend", "JavaScript", "Svelte", "Framework"]
-description: "Svelteをドキュメントを見ながら少し触ってみたという話"
+description: "JavaScriptフレームワーク Svelteをドキュメントを見ながら少し触ってみたという話"
 ---
 <div class="kv-box border">
    <img src="./kv.png" alt="Svelte">
 </div>
 
 ## Svelteとは
-[Svelte](https://svelte.technology/)は、2016年11月に出たばかりのJavaScriptフレームワークです。  
+[Front-end Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/2017.html)でも紹介されていましたが、[Svelte](https://svelte.technology/)は2016年11月に出たばかりのJavaScriptフレームワークです。  
 Backbone, Angular, React, Vueなど様々なJavaScriptフレームワークが出ていますが、Svelteはそれらとはコンセプトが違います。  
 一言で表わすと***コンパイラ***のようなフレームワークです。
 
-例えば、(Vue.js+Vuex or React.js+Redux)+ES2015+WebpackなどでSPAを開発したとすると、書いたコードがブラウザで動くようにビルドしなければならず、当然そのビルドをするための設定コードをプロジェクト立ち上げ時に整備する必要があります（なかなか骨が折れる作業です）。  
+例えば、(React.js or Vue.js)+ES2015+WebpackなどでWebサービスを開発したとすると、書いたコードがブラウザで動くようにビルドしなければならず、当然そのビルドをするための設定コードをプロジェクト立ち上げ時に整備する必要があります（なかなか骨が折れる作業です）。  
 また、フレームワーク側が複雑な処理を担当しているため、自分が書いたもの以外の必要なコードが大量に追加されます。
 
 
